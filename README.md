@@ -25,3 +25,5 @@ used in scientific computing.](https://github.com/Meinersbur/polybench/tree/mast
     - This notebook analyzes the runtimes of different executables using data from three files: `runtime_individual.txt`, `runtime_pairs.txt`, and `runtime_iterations.txt`. It generates bar plots for each executable, where the individual runtime is represented as a horizontal standard line. The runtime of each executable when paired with other executables is plotted as a ratio to the default time and displayed as bar charts.
     - All the generated plots are saved to a folder named "Plots" with the name of the corresponding executable.
  
+ - `Project report` is detailed pdf report on project, one can refer to understanding mehtodology and details of board used for this analysis.
+ - Check the What is Polybench pdf to know what exactly polybench processes are in breif
