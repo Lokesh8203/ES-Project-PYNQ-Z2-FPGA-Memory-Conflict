@@ -1,10 +1,3 @@
-# define executables
-# exes = ['2mm', '3mm', 'adi', 'atax', 'bicg', 'correlation', 'covariance',
-#         'deriche', 'doitgen', 'durbin', 'fdtd-2d', 'floyd-warshall',
-#         'gemm', 'gemver', 'gesummv', 'gramschmidt', 'heat-3d', 'jacobi-1d',
-#         'lu', 'ludcmp', 'mvt', 'nussinov', 'symm', 'syr2k', 'syrk', 'trisolv',
-#         'trmm']
-
 import subprocess
 import threading
 import time
